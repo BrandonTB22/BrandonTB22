@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Brandon! <br/><a href="https://github.com/BrandonTB22"></h1>
+<p>I recently received my bachelor's degree in computer sceince and a minor in Data Science in May 2026. Over the course of my college experience, I have completed several hands-on projects that allowed me to grow and gain experience as a software developer. Below is a sample of some of my projects.</p>
 
-<!--
-**BrandonTB22/BrandonTB22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
+  
+  - [Senior Capstone Translation Tool Web-app](https://github.com/BrandonTB22/Translation-Tool)
+  - [Smart Scheduler Web-App](https://github.com/BrandonTB22/Smart-Scheduler)
+  - [3D Video Game](https://github.com/BrandonTB22/Plants-vs-Zombies-3D)
+  - 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Data Science Projects:</h2>
+  - [Heart Disease Data Analysis](https://github.com/BrandonTB22/Heart-Disease-Data-Analysis)
