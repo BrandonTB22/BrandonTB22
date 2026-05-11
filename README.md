@@ -6,7 +6,7 @@
   - [Senior Capstone Translation Tool Web-app](https://github.com/BrandonTB22/Translation-Tool)
   - [Smart Scheduler Web-App](https://github.com/BrandonTB22/Smart-Scheduler)
   - [3D Video Game](https://github.com/BrandonTB22/Plants-vs-Zombies-3D)
-  - 
 
 <h2>👨‍💻 Data Science Projects:</h2>
   - [Heart Disease Data Analysis](https://github.com/BrandonTB22/Heart-Disease-Data-Analysis)
+
