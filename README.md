@@ -1,5 +1,5 @@
 <h1>Hi, I'm Brandon! <br/><a href="https://github.com/BrandonTB22"></h1>
-<p>I recently received my bachelor's degree in computer sceince and a minor in Data Science in May 2026. Over the course of my college experience, I have completed several hands-on projects that allowed me to grow and gain experience as a software developer. Below is a sample of some of my projects.</p>
+<p>I recently received my bachelor's degree in computer sceince and a minor in data science in May 2026. Over the course of my college experience, I have completed several hands-on projects that allowed me to grow and gain experience as a software developer. Below is a sample of some of my projects.</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
